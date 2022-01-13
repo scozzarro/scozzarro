@@ -26,7 +26,7 @@
 <a href = 'https://ggplot2.tidyverse.org/index.html'> <img width ='44px' align='center' src ='https://d33wubrfki0l68.cloudfront.net/0ab849ed51b0b866ef6895c253d3899f4926d397/85aff/wp-content/uploads/2014/04/ggplot2.png'></a>
 <img width ='44px' align='center' src ='https://i0.wp.com/www.business-science.io/assets/2020-06-29-modeltime/logo-modeltime.png?w=584&ssl=1'>
 <a href = 'https://torch.mlverse.org/'> <img width ='44px' align='center' src ='https://torch.mlverse.org/css/images/hex/torch.png'></a>
-<a href = 'https://www.h2o.ai'> <img width ='44px' align='center' src ='https://1drv.ms/u/s!ApbsY_XOYfing9M8Eoo0vzInFP9l-Q'></a>
+<a href = 'https://www.h2o.ai'> <img width ='44px' align='center' src ='https://github.com/scozzarro/scozzarro/blob/main/h2o_logo.png'></a>
 <a href = 'https://www.mysql.com/it/'> <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'></a>
 <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'>
 <a href = 'https://www.tableau.com/'> <img width ='44px' align='center' src ='https://cdn.worldvectorlogo.com/logos/tableau-software.svg'></a>
