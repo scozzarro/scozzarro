@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gabriel</h1>
 <h3 align="center">A Medical Engineer and Data Analyst</h3>
 
-- 🔭 I’m currently working on [Holey](www.holey.it)
+- 🔭 I’m currently working at [Subito](www.Subito.it)
 
 - 🌱 I’m currently learning **Machine learning and Data Science**
 
